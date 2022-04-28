@@ -1,0 +1,23 @@
+body {
+background-color: black;
+background-image: url("1.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+height: 100vh;
+display: grid;
+place-items: center;
+}
+
+h1 {
+    color: #707070;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 5em;
+    letter-spacing: -0.04em;
+}
+
+.page-wrapper {
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
