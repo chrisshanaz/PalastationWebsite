@@ -16,6 +16,13 @@ h1 {
     letter-spacing: -0.04em;
 }
 
+h2 {
+    color: #707070;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1em;
+    letter-spacing: -0.04em;
+}
+
 .page-wrapper {
     display: grid;
     place-items: center;
