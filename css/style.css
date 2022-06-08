@@ -1,11 +1,3 @@
-/*
-
-Highway Template
-
-https://templatemo.com/tm-520-highway
-
-*/
-
 body {
   font-family: 'Kanit', sans-serif;
 }
@@ -28,7 +20,7 @@ body, html {
 
 
 .page-heading {
-  background-image: url(../img/heading_bg.png);
+  background-image: url(../img/portfolio_item_4.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
