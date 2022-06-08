@@ -2,6 +2,25 @@ body {
   font-family: 'Kanit', sans-serif;
 }
 
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.funnycentretext {
+  text-align: center;
+  color: white;
+  font-size: 52px;
+}
+
+.funnycentretextbutblack {
+  text-align: center;
+  color: black;
+  font-size: 52px;
+}
+
 body::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -674,7 +693,7 @@ footer a:hover {
 
 
 .more-about-us {
-  background-image: url(../img/about_us.png);
+  background-color: #ff6e63;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -684,7 +703,7 @@ footer a:hover {
 }
 
 .more-about-us .content {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(87, 87, 87, 255);
   text-align: left;
   padding: 150px 60px;
   color: #fff;
